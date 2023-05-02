@@ -52,7 +52,7 @@ console.log(myScrabbleTiles);
 
 // 6. Complete this function. It needs to be given an array of tile objects. The function will use a for-loop and return the sum of all the scores in the given array.
 function sumTiles(tiles) {
-  for(i=o; myScrabbleTiles.length; i++) {
+  for(i=0; myScrabbleTiles.length; i++) {
     return sumTiles;
   }
 }
